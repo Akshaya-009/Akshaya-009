@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akshaya-009
+- 👋 Hi, I’m Akshaya Kumar H
 - 👀 I’m Tech Savvy 
 - 🌱 I’m currently learning NestJS and TS
 
